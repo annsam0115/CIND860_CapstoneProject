@@ -1,6 +1,12 @@
 # CIND860 Advanced Data Analytics Project
 CIND860 Capstone Project: Breast Cancer Detection
 
+** CURRENTLY IN THE RESPOSITORY **
+
+INITIAL CODE
+
+---------------------------------------------------------------------------
+
 This repository will consists of the following:
 1. Final Code in Python/Jupyter Notebook (TBD)
 2. Final Code saved in HTML format (TBD)
