@@ -1,17 +1,13 @@
 # CIND860 Advanced Data Analytics Project
 CIND860 Capstone Project: Breast Cancer Detection
 
-** CURRENTLY IN THE RESPOSITORY **
-
-INITIAL CODE
-
 ---------------------------------------------------------------------------
 
 This repository will consists of the following:
-1. Final Code in Python/Jupyter Notebook (TBD)
-2. Final Code saved in HTML format (TBD)
-3. Final project report (doc) (TBD)
-4. Final project report (pdf) (TBD)
+1. Final Code in Python:  CIND860Capstone_BreastCancer_FinalCode.ipynb
+2. Final Code saved in PDF format: CIND860Capstone_BreastCancer_FinalCode.pdf
+3. Final project report (doc) CIND860_Capstone_FinalReport.docx
+4. Final project report (pdf) CIND860_Capstone_FinalReport.pdf
 5. PPT Final presentation (TBD)
 6. Link to the original dataset: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629
 
@@ -20,12 +16,15 @@ The uploaded code is accessible via google.colab in python
 
 
 The notebook includes headings and some comments to help readers follow the process of data analysis.
-1. Data preparation section includes general investigation of the dataset
-2. Datra cleaning and their respective processes
-3. Preprocessing of the dataset 
-4. Image enhancement
-5. Modeling using: CNN
-6. Hyper-tunning parameters within each of the prediction models
-7. Comparison of the model's performances
-8. Cross Validation
-9. Conclusions
+1. Libraries
+   - Importing all the relevant libraries
+3. Raw Data Import
+    - Mounting the google drive
+    - Importing the data set
+5. Data Preprocessing & Visualization
+   - Exploring the DICOM data and fixing the data image path
+7. Image enhancement
+   - Processing the images to be ready to feed through the model
+9. CNN first and second iteration modelling 
+10. ResNet50 first and second iteration modelling
+11. VGG16 first and second iteration modelling
