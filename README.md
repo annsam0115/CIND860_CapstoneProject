@@ -8,7 +8,7 @@ This repository will consists of the following:
 2. Final Code saved in PDF format: CIND860Capstone_BreastCancer_FinalCode.pdf
 3. Final project report (doc) CIND860_Capstone_FinalReport.docx
 4. Final project report (pdf) CIND860_Capstone_FinalReport.pdf
-5. PPT Final presentation (TBD)
+5. PPT Final presentation (ppt) CIND_FinalPresentation.pptx
 6. Link to the original dataset: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629
 
 The project report will be consistent with details within an academic paper.
